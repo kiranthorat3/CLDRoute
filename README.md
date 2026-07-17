@@ -209,7 +209,7 @@ CLDRoute/
 ## Setup
 
 ```bash
-git clone https://github.com/kiranthorat/CLDRoute.git
+git clone https://github.com/kiranthorat3/CLDRoute.git
 cd CLDRoute
 pip install -r requirements.txt
 ```
