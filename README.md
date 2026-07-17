@@ -49,7 +49,7 @@ CLDRoute is a two-stage conditional latent diffusion framework for **routability
 
 <div align="center">
 
-| ![Pipeline placeholder](assets/fig1_pipeline.png) |
+| ![Pipeline placeholder](assets/Overview.pdf) |
 |:---:|
 | *Fig. 1 — Two-stage pipeline: physics-aware routing controls → task-specific VAE latent space → conditional DDIM denoising → mean map + uncertainty map* |
 
